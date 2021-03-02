@@ -1,0 +1,22 @@
+{
+  "name": "ts_utils",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "lib/MathUtils.js",
+  "types": "lib/MathUtils.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "lib/**/*"
+  ],
+  "author": "simas_z",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.2"
+  },
+  "exports": {
+    "./": "./lib/"
+  }
+}
