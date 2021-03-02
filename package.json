@@ -1,8 +1,8 @@
 {
-  "name": "ts_utils",
-  "version": "1.0.0",
+  "name": "ts_common_utils",
+  "version": "1.0.1",
   "type": "module",
-  "description": "",
+  "description": "Utility and common functions for TypeScript",
   "main": "lib/MathUtils.js",
   "types": "lib/MathUtils.d.ts",
   "scripts": {
@@ -12,7 +12,7 @@
     "lib/**/*"
   ],
   "author": "simas_z",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^4.2.2"
   },
